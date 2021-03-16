@@ -1,0 +1,1 @@
+OBS : aparentimente, o bootstrap está sobrescrevendo o css, impedidndo o css com a propriedade diplay: inline-block
